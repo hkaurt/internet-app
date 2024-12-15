@@ -42,9 +42,13 @@ public class LoginTestCase {
 				: "login test failed";
 
 		System.out.println(result);
+		
+		System.out.println("test successful");
 
 		// close the browser
 		driver.close();
+		
+		
 	}
 
 }
