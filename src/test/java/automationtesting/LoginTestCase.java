@@ -44,7 +44,7 @@ public class LoginTestCase {
 		System.out.println(result);
 
 		// close the browser
-		driver.quit();
+		driver.close();
 	}
 
 }
